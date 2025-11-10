@@ -1,0 +1,29 @@
+{
+  "name": "zeroprice-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour gérer ZeroPrice - Auto-ajout DraftBot",
+  "main": "bot.js",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "gaming",
+    "free-games"
+  ],
+  "author": "ZeroPrice Team",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.5",
+    "dotenv": "^16.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
