@@ -3,8 +3,8 @@
 # ============================================
 
 # Discord Bot Credentials
-DISCORD_TOKEN=ton_token_discord_bot_ici
-DISCORD_CLIENT_ID=ton_client_id_ici
+DISCORD_TOKEN=MTQzNTc0NzkzMjgzMzA1ODgxNg.Gf3R33.xOyoH6E075TAwaLIyoeeBQpIXnUSZzQMDdxUwk
+DISCORD_CLIENT_ID=1435747932833058816
 
 # API Configuration
 API_URL=https://ton-api.railway.app/api
